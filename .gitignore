@@ -1,0 +1,13 @@
+data/train_data_90k.mat
+data/train_data_10k.mat
+data/my_features/input.mat
+data/my_features/testset_feature_HoG2.mat
+data/features/mat_of_edge.mat
+data/features/input.mat
+data/features/database_camera_feature_HoG.mat
+data/features/testset_feature2.mat
+data/features/testset_feature_custom.mat
+data/features/testset_feature_HoG2.mat
+data/features/testset_feature_HoG.mat
+data/train_data_91k.mat
+python/video2.mp4
