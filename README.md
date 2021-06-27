@@ -1,3 +1,8 @@
+# Senior Design project using SCCvSD for homography estimation with personal refinements, improvements, expanded into other sports, tools, etc..
+
+
+
+
 # SCCvSD
 Sports Camera Calibration via Synthetic Data
 
